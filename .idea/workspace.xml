@@ -33,7 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "//wsl$/Ubuntu/home/bas/projects/model",
+    "last_opened_file_path": "//wsl$/Ubuntu/home/bas/old/projects/api",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,7 +50,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667654861028</updated>
+<<<<<<< Updated upstream
       <workItem from="1667654862215" duration="506000" />
+=======
+      <workItem from="1667654862215" duration="2985000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
