@@ -1,1 +1,1 @@
-{  "name": "atlantisgroupbv/model",  "homepage": "https://github.com/atlantisgroupbv/model"}
+{  "name": "atlantisgroupbv/model",  "homepage": "https://github.com/atlantisgroupbv/model",  "description": "Atlantis Group B.V. Model",  "keywords": ["DB2Model"],  "authors": [    {      "name": "Bas Kooijman",      "email": "bas.kooijman@gmail.com",      "role": "Creator / Developer"    }  ],  "require": {    "php": ">=8.1"  }}
