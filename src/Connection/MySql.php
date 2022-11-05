@@ -1,1 +1,1 @@
-<?php
+<?phpnamespace Atlantisgroupbv\Model;class MySql{}
