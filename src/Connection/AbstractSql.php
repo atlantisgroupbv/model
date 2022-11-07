@@ -1,0 +1,1 @@
+<?phpnamespace Atlantisgroupbv\Model\Connection;use Atlantisgroupbv\Model\DataAccess\DataAccessInterface;abstract class AbstractSql implements DataAccessInterface{}
