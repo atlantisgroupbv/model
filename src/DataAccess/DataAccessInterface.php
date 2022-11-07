@@ -1,1 +1,1 @@
-<?phpnamespace Atlantisgroupbv\Model\DataAccess;interface DataAccessInterface{    public function setLogger(LoggerInterface $logger = null): DataAccessInterface;}
+<?phpnamespace Atlantisgroupbv\Model\DataAccess;use Psr\Log\LoggerInterface;/** * Interface DataAccessInterface * @package Atlantisgroupbv\Model\DataAccess */interface DataAccessInterface{    public function setLogger(LoggerInterface $logger = null): DataAccessInterface;}
