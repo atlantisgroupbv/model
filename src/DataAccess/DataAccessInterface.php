@@ -1,0 +1,1 @@
+<?phpnamespace Atlantisgroupbv\Model\DataAccess;interface DataAccessInterface{    public function setLogger(LoggerInterface $logger = null): DataAccessInterface;}

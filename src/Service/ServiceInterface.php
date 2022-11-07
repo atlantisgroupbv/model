@@ -1,0 +1,1 @@
+<?phpnamespace Atlantisgroupbv\Model\Service;interface ServiceInterface{}
