@@ -1,1 +1,1 @@
-<?phpnamespace Atlantisgroupbv\Model\Service;interface ServiceInterface{}
+<?phpnamespace Atlantisgroupbv\Model\Service;/** * Interface ServiceInterface * @package Atlantisgroupbv\Model\Service */interface ServiceInterface{}
