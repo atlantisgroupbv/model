@@ -1,0 +1,1 @@
+<?phpnamespace Atlantisgroupbv\Model\Exception;class General extends \Exception{}

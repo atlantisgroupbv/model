@@ -1,1 +1,8 @@
-<?phpnamespace Atlantisgroupbv\Model;class MySql{}
+<?php
+
+namespace Atlantisgroupbv\Model\Connection;
+
+class MySql
+{
+
+}
