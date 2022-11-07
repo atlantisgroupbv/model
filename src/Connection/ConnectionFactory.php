@@ -1,0 +1,1 @@
+<?phpnamespace Atlantisgroupbv\Model\Connection;/** * class ConnectionFactory * @package Atlantisgroupbv\Model\Connection */class ConnectionFactory extends AbstractConnectionFactory{}
