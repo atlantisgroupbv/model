@@ -57,5 +57,7 @@ class MySql
         $this->port = $port;
         $this->charset = $charset;
         $this->logger = $logger;
+
+        dump($dbname);
     }
 }
